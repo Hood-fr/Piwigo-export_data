@@ -1,4 +1,4 @@
 File automatically created from SVN or Git repository.
 
 URL: https://github.com/plegall/Piwigo-export_data 
-Revision: d3cdb542eab0bda7e61c75ed585fb097a7f798ca (Tue Dec 29 13:03:15 2020 +0100)
+Revision: acc4ead869c9a21ab94b91a63bf9f8de7eaa23ab (Tue Oct 12 17:52:33 2021 +0200)
