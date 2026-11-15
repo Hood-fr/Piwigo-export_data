@@ -1,9 +1,9 @@
 <?php 
 /*
 Plugin Name: Export Data
-Version: 13.b
+Version: 16.b
 Description: Export data from database into a spreadsheet
-Plugin URI: http://piwigo.org/ext/extension_view.php?eid=729
+Plugin URI: https://piwigo.org/ext/extension_view.php?eid=729
 Author: plg
 Author URI: http://le-gall.net/pierrick
 Has Settings: true
